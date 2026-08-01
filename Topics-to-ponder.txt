@@ -1,0 +1,10 @@
+Things to learn from Smart Email Assistant project:
+
+1. Chrome Extensions overview
+2. Mutation Observer
+3. Something about Axios and Matrial UI
+4. Web Flux(Spring reactive web)
+5. API key generations
+6. CORS policy
+7. Web client and Jackson
+8. 
